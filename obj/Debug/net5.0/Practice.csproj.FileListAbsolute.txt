@@ -1,0 +1,16 @@
+/media/elbagory/01D72899985E4060/Projects/ASP.NET/Practice/bin/Debug/net5.0/Practice
+/media/elbagory/01D72899985E4060/Projects/ASP.NET/Practice/bin/Debug/net5.0/Practice.deps.json
+/media/elbagory/01D72899985E4060/Projects/ASP.NET/Practice/bin/Debug/net5.0/Practice.runtimeconfig.json
+/media/elbagory/01D72899985E4060/Projects/ASP.NET/Practice/bin/Debug/net5.0/Practice.runtimeconfig.dev.json
+/media/elbagory/01D72899985E4060/Projects/ASP.NET/Practice/bin/Debug/net5.0/Practice.dll
+/media/elbagory/01D72899985E4060/Projects/ASP.NET/Practice/bin/Debug/net5.0/ref/Practice.dll
+/media/elbagory/01D72899985E4060/Projects/ASP.NET/Practice/bin/Debug/net5.0/Practice.pdb
+/media/elbagory/01D72899985E4060/Projects/ASP.NET/Practice/obj/Debug/net5.0/Practice.csproj.AssemblyReference.cache
+/media/elbagory/01D72899985E4060/Projects/ASP.NET/Practice/obj/Debug/net5.0/Practice.GeneratedMSBuildEditorConfig.editorconfig
+/media/elbagory/01D72899985E4060/Projects/ASP.NET/Practice/obj/Debug/net5.0/Practice.AssemblyInfoInputs.cache
+/media/elbagory/01D72899985E4060/Projects/ASP.NET/Practice/obj/Debug/net5.0/Practice.AssemblyInfo.cs
+/media/elbagory/01D72899985E4060/Projects/ASP.NET/Practice/obj/Debug/net5.0/Practice.csproj.CoreCompileInputs.cache
+/media/elbagory/01D72899985E4060/Projects/ASP.NET/Practice/obj/Debug/net5.0/Practice.dll
+/media/elbagory/01D72899985E4060/Projects/ASP.NET/Practice/obj/Debug/net5.0/ref/Practice.dll
+/media/elbagory/01D72899985E4060/Projects/ASP.NET/Practice/obj/Debug/net5.0/Practice.pdb
+/media/elbagory/01D72899985E4060/Projects/ASP.NET/Practice/obj/Debug/net5.0/Practice.genruntimeconfig.cache
